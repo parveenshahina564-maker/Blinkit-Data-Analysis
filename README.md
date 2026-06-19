@@ -62,4 +62,4 @@ Showcased practical skills in Python, SQL, Excel, Power BI, Data Visualization, 
 
 
 Screenshot:
-![Dashboard](https://github.com/parveenshahina564-maker/Blinkit-Data-Analysis/commit/0228c8b0f5967af441aa3f22a7e0e7c595643e3a#diff-44da2d58079e7d8359b72161f31e45995c4146e1f63b580a7f55bb08a9facdde)
+![Dashboard](https://github.com/parveenshahina564-maker/Blinkit-Data-Analysis/blob/main/powerbi%20blinkit.png)
